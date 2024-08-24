@@ -1,4 +1,4 @@
-# Welcome to Metacrafters ATM!
+# Welcome to My ATM!
 
 # Objective
 1. To make a smart contract with 2-3 functions
